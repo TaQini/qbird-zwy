@@ -10,3 +10,6 @@
  - run.py
  - ebird 名录更新时 运行 taxon.py 进行更新
  
+## screenshot
+ ![123](screenshot.png)
+ ![1234](sc2.png)
